@@ -1,6 +1,6 @@
 ## Welcome to Kasteelstraat GitHub Pages
 
-This site was on http://users.telenet.be/stefaan.janssens/Kasteelstraat/ but is moving ...
+This site was on [this old URL](http://users.telenet.be/stefaan.janssens/Kasteelstraat/) but is moving ...
 
 You can use the [editor on GitHub](https://github.com/StefkeJ/StefkeJ.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
