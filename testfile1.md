@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "ergens in de boom"
-permalink: /ergens/in/de/boom/
+permalink: /ergens/in/de/boom.html/
 ---
 A First Level Header
 ====================
