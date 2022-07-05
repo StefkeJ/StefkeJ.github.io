@@ -6,3 +6,5 @@ You can use the [editor on GitHub](https://github.com/StefkeJ/StefkeJ.github.io/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in the site, from the content in your Markdown files.
 
+
+![Hogeschool](/docs/assets/images/HogeSchool2.jpg)
